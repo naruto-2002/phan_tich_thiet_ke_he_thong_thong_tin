@@ -1,0 +1,19 @@
+.container {
+    margin-left: 20px;
+}
+
+.info-item {
+    display: flex;
+    align-items: center;
+}
+
+.label {
+    width: 200px;
+    font-size: 1.6rem;
+}
+
+.description {
+    font-size: 1.4rem;
+    line-height: 2rem;
+}
+
